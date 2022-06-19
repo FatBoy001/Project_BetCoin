@@ -7,6 +7,10 @@ BitCoin is the website that can bet on your favorite team swhen the team you bet
 # Important information you have to know
 The SQL file include the data the file name is 'betcoin.sql' in the folder 'SQL'.</br>
 If you want to login the Back-End you need to login by the admin account:
-</br>email: a1083365@mail.nuk.edu.tw
-</br>Password: aas19894
 </br>
+<table>
+  <tr>
+<td>email:</td><td> a1083365@mail.nuk.edu.tw</td>
+<td>Password:</td><td>aas19894</td>
+  </tr>
+</table>
