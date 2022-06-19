@@ -14,6 +14,6 @@ BitCoin is the website that can bet on your favorite team swhen the team you bet
     <td>email:</td><td> a1083365@mail.nuk.edu.tw</td>
   </tr>
   <tr>
-    <td>Password:</td><td>aas19894</td>
+    <td>Password:</td><td>321</td>
   </tr>
 </table>
