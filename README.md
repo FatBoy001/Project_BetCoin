@@ -10,7 +10,7 @@ BitCoin is the website that can bet on your favorite team swhen the team you bet
 3. If you want to login the Back-End you need to login by the admin account:
 <table>
   <tr>
-    <td>email:</td><td> a1083365@mail.nuk.edu.tw</td>
+    <td>email:</td><td> w@q.w</td>
   </tr>
   <tr>
     <td>Password:</td><td>321</td>
