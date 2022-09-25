@@ -160,7 +160,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`no`, `email`, `name`, `pwd`, `bankAccount`, `role`) VALUES
-(2, 'a1083365@mail.nuk.edu.tw', 'hello', '321', 1083365, 'A'),
+(2, 'w@q.w', 'hello', '321', 1083365, 'A'),
 (12, 'aaa@gmail.com', 'Jack', '123', 21333046242457, 'U'),
 (13, 'a1083359@mail.nuk.edu.tw', 'Iris', '123', 12127102451335, 'U');
 
